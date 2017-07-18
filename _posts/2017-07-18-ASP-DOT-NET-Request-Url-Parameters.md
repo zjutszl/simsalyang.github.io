@@ -1,3 +1,4 @@
+---
 layout: post
 title: ASP.NET获取当前url各参数
 date: 2017-07-18
@@ -5,7 +6,7 @@ categories: blog
 tags: [ASP.NET,C#]
 description: asp.net获取当前url中的各种参数，文章内容转载自http://congcong.blog.51cto.com/3840971/856701
 
-
+---
 
 假设当前页完整地址是：[http://www.test.com/aaa/bbb.aspx?id=5&name=kelli](http://www.test.com/aaa/bbb.aspx?id=5&name=kelli)
 
